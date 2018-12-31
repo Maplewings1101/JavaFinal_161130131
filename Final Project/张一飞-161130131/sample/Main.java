@@ -109,7 +109,7 @@ public class Main extends Application {
         menuBar.prefWidthProperty().bind(primaryStage.widthProperty());
 
 
-        Menu action = new Menu("justice");
+        Menu action = new Menu("action");
         Menu justice = new Menu("justice");
         Menu devil = new Menu("devil");
 
